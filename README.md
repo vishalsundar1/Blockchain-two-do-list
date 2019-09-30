@@ -4,5 +4,5 @@ Webpage using a blockchain through the Ganache service that acts as a todo list.
 
 <Ganache>
 
-Steps -
+Need to download Ganache to run in local machine.
 
